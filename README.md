@@ -1,17 +1,18 @@
-### Hi there 👋
+# About Me 👋
 
-<!--
-**IkhsanR236/IkhsanR236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Hello my name is Ikhsan also my friend called me Ican<br />
+• I am a junior high school student<br />
+• I like making things with Minecraft I also like making things with discord
 
-Here are some ideas to get you started:
+### Tools That I Use
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
+<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26px" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://github.com/IkhsanR236/github-stats/blob/master/generated/overview.svg)
+
+
+### My Statistics 📊
+![](https://github-readme-stats.vercel.app/api?username=IkhsanR236&&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhsanR236&layout=compact)
