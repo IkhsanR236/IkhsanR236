@@ -1,6 +1,6 @@
 ### About Me 🌈
 
-• Hello my name is Ikhsan also my friend called me Ican<br />
+• Hello my name is Ican<br />
 • I am a junior high school student<br />
 • I like making things with Minecraft I also like making things with discord
 
