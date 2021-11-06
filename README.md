@@ -1,7 +1,7 @@
 ### About Me 🌈
 
 • Hello my name is Ican<br />
-• I am a junior high school student<br />
+• I am a middle school student<br />
 • I like making things with Minecraft I also like making things with discord
 
 ### Tools That I Use 🛸
