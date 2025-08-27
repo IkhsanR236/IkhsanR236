@@ -1,8 +1,8 @@
 ### About Me 🐳
 
 • Hello my name is Ican<br />
-• I am a middle school student<br />
-• I like making things with Minecraft I also like making things with discord
+• I am a Informatics collage student<br />
+• I love watching  Anime<br />
 
 ### Tools That I Use 🛸
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
