@@ -1,4 +1,4 @@
-### About Me 🌈
+### About Me 🐳
 
 • Hello my name is Ican<br />
 • I am a middle school student<br />
